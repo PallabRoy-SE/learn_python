@@ -1,0 +1,1 @@
+print("First","Second","Third","Fourth", sep="\n", end=".")
